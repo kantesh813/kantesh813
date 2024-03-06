@@ -1,5 +1,5 @@
-Hi 👋 My name is Kantesh kumar
-I’m interested in coding , Problem Solving, sometimes math.
+Hi 👋 My name is Kantesh kumar        
+I’m interested in coding , Problem Solving, sometimes math.      
 
 
 🌍  I'm based in Karachi, Pakistan.                
